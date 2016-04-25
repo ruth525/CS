@@ -1,0 +1,54 @@
+
+p
+{
+	color:blue;
+}
+body {
+    background-color: lightblue;
+   
+    background-image: url("D:\ADSI SENA\ANLISIS\php\trabajoCSS\IMG\descarga.jpg");
+    background-position: right top;
+}
+h1 {
+    background-color: green;
+    
+}
+em{text-align:justify;color:red;}
+div.fondos { 
+
+    width: 200px;
+    height: 100px;
+    background-size: 200px 100px;
+    background-repeat:no-repeat;
+    background-image: linear-gradient(to left, red 0%, white 100%);
+    background-blend-mode:color;
+}
+
+div.bordes{
+     background-color:violet;
+    
+    float:right;
+    border-style: solid;
+     margin:10px 5px 5px 50px;
+  }
+}
+
+p.dashed {border-style: dashed; border-width: thin;  color:#ff45ff}
+p.solid {border-style: solid;}
+p.inset {border-style: inset;}
+
+h4{color:red;}
+}
+div.m{
+    color: green;
+
+    background-color: lightgrey;
+    width: 300px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
+
+}
+div{ float:left;}
+
+
